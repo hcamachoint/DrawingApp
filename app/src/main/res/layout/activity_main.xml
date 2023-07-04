@@ -127,7 +127,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="parent">
         <ImageButton
-            android:id="@+id/id_gallery"
+            android:id="@+id/id_brush"
             android:layout_width="50dp"
             android:layout_height="50dp"
             android:layout_margin="5dp"
@@ -135,7 +135,7 @@
             android:scaleType="fitXY"
             />
         <ImageButton
-            android:id="@+id/id_brush"
+            android:id="@+id/id_gallery"
             android:layout_width="50dp"
             android:layout_height="50dp"
             android:layout_margin="5dp"
